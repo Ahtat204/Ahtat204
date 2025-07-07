@@ -94,8 +94,6 @@ Let’s build something amazing together!
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahtat204&show_icons=true&theme=radical)
 
 - **Public Repositories:** 4
-- **Followers:** 0
-- **Following:** 0
 
 ## Recent Activity
 
