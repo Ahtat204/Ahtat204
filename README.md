@@ -89,10 +89,6 @@ Let’s build something amazing together!
 - [WeatherApp](https://github.com/Ahtat204/WeatherApp): A weather application showcasing real-time data.
 - [Ahtat204](https://github.com/Ahtat204/Ahtat204): My GitHub profile repository that contains various projects and information.
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahtat204&show_icons=true&theme=radical)
-
 - **Public Repositories:** 4
 
 ## Recent Activity
