@@ -10,7 +10,7 @@ Hi! I'm Lahcen — a passionate and curious software developer with a background
 
 - 🎓 Physics graduate | 🎮 Game & Android Developer | 🧠 AI Engineering Student
 - 💻 Tech Stack: C/C++ • Kotlin • Java • C# • Python • JavaScript (MERN) • SQL • MongoDB
-- 🧠 Currently learning DirectX12 and HLSL to explore low-level graphics programming, leveraging my strong foundation in linear and multilinear algebra."
+- 🧠 Currently learning DirectX12 and HLSL to explore low-level graphics programming."
 - 🧰 Working across platforms: Android Studio, Unreal Engine, Unity, and the web
 - 📱 Actively building apps using Kotlin + Jetpack Compose and exploring scalable backend architectures
 - 📚 Passionate about algorithms, game engines, computer vision, and AI
