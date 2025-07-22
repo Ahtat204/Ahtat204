@@ -103,4 +103,6 @@ I currently do not have any blog posts. However, I plan to share my insights on 
 
 ## Connect with Me
 
-{}
+{Email:lahcen28ahtat@gmail.com
+LinkedIn:https://www.linkedin.com/in/lahcenahtat/
+}
