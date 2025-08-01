@@ -99,9 +99,11 @@ Let’s build something amazing together!
 - Published version 1.0.0 of RollingBall.
 - Contributed to various projects and updated repositories frequently.
 
-## Latest Blog Posts
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahtat204&show_icons=true&count_private=true&theme=radical)
 
-I currently do not have any blog posts. However, I plan to share my insights on game development and AI soon!
+- **Public Repositories:** 5
+- **Followers:** 1
+- **Following:** 6
 
 ## Connect with Me
 
