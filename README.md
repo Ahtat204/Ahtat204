@@ -85,11 +85,11 @@ Let’s build something amazing together!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahtat204)](https://github.com/Ahtat204)
 
 ## Recent Projects
-
-- [RollingBall](https://github.com/Ahtat204/RollingBall): An Android game developed using Unity and C#. 🌟 1 star
-- [Gemini](https://github.com/Ahtat204/Gemini): An Android ChatBot application built with Kotlin.
-- [WeatherApp](https://github.com/Ahtat204/WeatherApp): A weather application showcasing real-time data.
-- [Ahtat204](https://github.com/Ahtat204/Ahtat204): My GitHub profile repository that contains various projects and information.
+- [RollingBall](https://github.com/Ahtat204/RollingBall): An Android game built with Unity and C# | ⭐ 1 star | Language: C# | Forks: 0 | Issues: 0
+- [Gemini](https://github.com/Ahtat204/Gemini): An Android ChatBot application | ⭐ 0 stars | Language: Kotlin | Forks: 0 | Issues: 0
+- [AuthenticationTemplate](https://github.com/Ahtat204/AuthenticationTemplate): A Login/SignUp GUI with Java Swing and MySQL | ⭐ 0 stars | Language: Java | Forks: 0 | Issues: 1
+- [WeatherApp](https://github.com/Ahtat204/WeatherApp): A weather application utilizing Kotlin | ⭐ 0 stars | Language: Kotlin | Forks: 0 | Issues: 0
+- [Ahtat204](https://github.com/Ahtat204/Ahtat204): My personal profile repository | ⭐ 0 stars | Language: Markdown | Forks: 0 | Issues: 0
 
 - **Public Repositories:** 4
 
