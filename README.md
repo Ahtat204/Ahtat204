@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm Lahcen, a passionate software developer and AI engineering student with a strong foundation in physics and advanced math. I build Android apps, games, and scalable web apps — and I love learning how everything works under the hood!
+I'm Lahcen, a passionate software engineer and AI engineering student with a strong foundation in physics and advanced math. I build Android apps, games, and scalable web apps — and I love learning how everything works under the hood!
 
 
 ## About Me
