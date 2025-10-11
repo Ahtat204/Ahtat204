@@ -67,6 +67,10 @@ Let’s build something amazing together!
   <img width="12" />
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
    <img width="12" />
+   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgres logo"  />
+   <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt=dotnet logo"  />
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
    <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
    <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
    <img width="12" />
