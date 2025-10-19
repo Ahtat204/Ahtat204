@@ -99,7 +99,7 @@ Let’s build something amazing together!
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahtat204)](https://github.com/Ahtat204)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahtat204&hide=html,css,shaderlab,glsl,hlsl,mathematica)
 
 ## Recent Projects
 - [RollingBall](https://github.com/Ahtat204/RollingBall): An Android game built with Unity and C# | ⭐ 1 star | Language: C# | Forks: 0 | Issues: 0
