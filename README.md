@@ -110,8 +110,6 @@ Let’s build something amazing together!
 [![Finance Tracker](https://github-readme-stats.vercel.app/api/pin/?username=Ahtat204&repo=Finance-Tracker&theme=dark)](https://github.com/Ahtat204/Finance-Tracker)
 [![Conversations Manager](https://github-readme-stats.vercel.app/api/pin/?username=Ahtat204&repo=ConversationsManager&theme=dark)](https://github.com/Ahtat204/ConversationsManager)
 
-- **Public Repositories:** 4
-
 ## Recent Activity
 
 - Created [RollingBall](https://github.com/Ahtat204/RollingBall) - an Android game with Unity and C#.
