@@ -18,8 +18,9 @@ Hi! I'm Lahcen — a passionate and curious software developer with a background
 - ♟️ I draw inspiration from the strategic clarity of Capablanca and Karpov — methodical thinking and clean design.
 
 Let’s build something amazing together!
+<!-- This is a comment -->
 
-
+<!--
 ## Skills & Technologies
 
 <div align="left">
@@ -92,7 +93,7 @@ Let’s build something amazing together!
   <img width="12" />
   
 </div>
-
+-->
 ## Top Used Languages
 
 
