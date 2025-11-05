@@ -112,9 +112,11 @@ Let’s build something amazing together!
 
 ## Recent Activity
 
-- Created [RollingBall](https://github.com/Ahtat204/RollingBall) - an Android game with Unity and C#.
-- Published version 1.0.0 of RollingBall.
-- Contributed to various projects and updated repositories frequently.
+- Pushed updates to [Chess Game](https://github.com/Ahtat204/ChessGame) on Nov 1, 2025.
+- Created a new branch for [Finance Tracker](https://github.com/Ahtat204/Finance-Tracker) on Nov 5, 2025.
+- Pushed updates to [Shoot Trainer](https://github.com/Ahtat204/ShootTrainner) on Nov 1, 2025.
+- Updated [Task Manager](https://github.com/Ahtat204/TaskManager) on Oct 25, 2025.
+- Commits to [Solar System](https://github.com/Ahtat204/SolarSystem) on Nov 2, 2025.
 
 🌟 **Public Repositories**: 11  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahtat204&show_icons=true&theme=radical)  
