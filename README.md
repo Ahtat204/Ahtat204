@@ -102,12 +102,13 @@ Let’s build something amazing together!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahtat204&hide=html,css,shaderlab,glsl,hlsl,mathematica,DockerFile,batchfile&langs_count=19)
 
-## Recent Projects
-- [RollingBall](https://github.com/Ahtat204/RollingBall): An Android game built with Unity and C# | ⭐ 1 star | Language: C# | Forks: 0 | Issues: 0
-- [Gemini](https://github.com/Ahtat204/Gemini): An Android ChatBot application | ⭐ 0 stars | Language: Kotlin | Forks: 0 | Issues: 0
-- [AuthenticationTemplate](https://github.com/Ahtat204/AuthenticationTemplate): A Login/SignUp GUI with Java Swing and MySQL | ⭐ 0 stars | Language: Java | Forks: 0 | Issues: 1
-- [WeatherApp](https://github.com/Ahtat204/WeatherApp): A weather application utilizing Kotlin | ⭐ 0 stars | Language: Kotlin | Forks: 0 | Issues: 0
-- [Ahtat204](https://github.com/Ahtat204/Ahtat204): My personal profile repository | ⭐ 0 stars | Language: Markdown | Forks: 0 | Issues: 0
+## Top Projects
+
+[![Chess Game](https://github-readme-stats.vercel.app/api/pin/?username=Ahtat204&repo=ChessGame&theme=dark)](https://github.com/Ahtat204/ChessGame)
+[![Shoot Trainer](https://github-readme-stats.vercel.app/api/pin/?username=Ahtat204&repo=ShootTrainner&theme=dark)](https://github.com/Ahtat204/ShootTrainner)
+[![Task Manager](https://github-readme-stats.vercel.app/api/pin/?username=Ahtat204&repo=TaskManager&theme=dark)](https://github.com/Ahtat204/TaskManager)
+[![Finance Tracker](https://github-readme-stats.vercel.app/api/pin/?username=Ahtat204&repo=Finance-Tracker&theme=dark)](https://github.com/Ahtat204/Finance-Tracker)
+[![Conversations Manager](https://github-readme-stats.vercel.app/api/pin/?username=Ahtat204&repo=ConversationsManager&theme=dark)](https://github.com/Ahtat204/ConversationsManager)
 
 - **Public Repositories:** 4
 
@@ -117,11 +118,8 @@ Let’s build something amazing together!
 - Published version 1.0.0 of RollingBall.
 - Contributed to various projects and updated repositories frequently.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahtat204&show_icons=true&count_private=true&theme=radical)
-
-- **Public Repositories:** 5
-- **Followers:** 1
-- **Following:** 6
+🌟 **Public Repositories**: 11  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahtat204&show_icons=true&theme=radical)  
 
 ## Connect with Me
 
