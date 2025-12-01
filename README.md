@@ -100,7 +100,7 @@ Let’s build something amazing together!
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahtat204&hide=html,css,shaderlab,glsl,hlsl,mathematica,DockerFile,batchfile&langs_count=19)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahtat204&hide=html,css,shaderlab,glsl,hlsl,mathematica,DockerFile,batchfile&langs_count=19)-->
 
 ## Top Projects
 
@@ -118,9 +118,9 @@ Let’s build something amazing together!
 - Updated [Task Manager](https://github.com/Ahtat204/TaskManager) on Oct 25, 2025.
 - Commits to [Solar System](https://github.com/Ahtat204/SolarSystem) on Nov 2, 2025.
 
-🌟 **Public Repositories**: 11  
+<!--🌟 **Public Repositories**: 11  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahtat204&show_icons=true&theme=radical)  
-
+-->
 ## Connect with Me
 
 {Email:lahcen28ahtat@gmail.com 
