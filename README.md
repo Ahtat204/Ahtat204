@@ -1,19 +1,16 @@
 ## Hi there! 👋
-
-Hi there 👋, welcome to my GitHub! 
+welcome to my GitHub! 
 I enjoy learning, building projects, and sharing code with the community
 
 
 ## About Me
 
 
-Hi! I'm Lahcen — a passionate and curious software developer with a background in physics and a drive to understand how things work at the core. I'm currently pursuing AI engineering while building Android apps, games, and full-stack web projects. I believe in mastering fundamentals and always strive to balance theory with hands-on practice.
+I'm Lahcen — a passionate and curious software engineer with a background in physics and a drive to understand how things work at the core. I'm currently pursuing AI engineering while building apps, games, and backend systems. I believe in mastering fundamentals and always strive to balance theory with hands-on practice.
 
-- 🎓 Physics graduate | 🎮 Game & Android Developer | 🧠 AI Engineering Student
-- 💻 Tech Stack: C/C++ • Kotlin • Java • C# • Python • JavaScript (MERN) • SQL • MongoDB
-- 🧠 Currently learning DirectX12 and HLSL to explore low-level graphics programming."
-- 🧰 Working across platforms: Android Studio, Unreal Engine, Unity, and the web
-- 📱 Actively building apps using Kotlin + Jetpack Compose and exploring scalable backend architectures
+- 🧠 Currently learning Vulkan and HLSL to explore low-level graphics programming."
+- 🧰 Working across platforms
+- 📱 Actively building 
 - 📚 Passionate about algorithms, game engines, computer vision, and AI
 - ♟️ I draw inspiration from the strategic clarity of Capablanca and Karpov — methodical thinking and clean design.
 
