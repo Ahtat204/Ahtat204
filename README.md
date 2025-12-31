@@ -10,9 +10,10 @@ I'm Lahcen — a passionate and curious software engineer with a background in p
 
 - 🧠 Currently learning Vulkan and HLSL to explore low-level graphics programming.
 - 🧰 Working across platforms
-- 📱 Actively building 
+- 📱 Actively Building to understand. 🛠️ "What I cannot create, I do not understand." — Feynman
 - 📚 Passionate about algorithms, game engines, computer vision, and AI
 - ♟️ I draw inspiration from the strategic clarity of Capablanca and Karpov — methodical thinking and clean design.
+-  infl
 
 Let’s build something amazing together!
 <!-- This is a comment -->
