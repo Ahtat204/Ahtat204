@@ -1,12 +1,4 @@
-## Hi there! 👋
-welcome to my GitHub! 
-I enjoy learning, building projects, and sharing code with the community
-
-
-## About Me
-
-
-I'm Lahcen — a passionate and curious software engineer with a background in physics and a drive to understand how things work at the core. I'm currently pursuing AI engineering while building apps, games, and backend systems. I believe in mastering fundamentals and always strive to balance theory with hands-on practice.
+A passionate and curious software engineer with a background in physics and a drive to understand how things work at the core. I'm currently pursuing AI engineering while building apps, games, and backend systems. I believe in mastering fundamentals and always strive to balance theory with hands-on practice.
 
 - 🧠 Currently learning Vulkan and HLSL to explore low-level graphics programming.
 - 🧰 Working across platforms
