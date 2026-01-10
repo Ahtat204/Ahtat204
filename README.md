@@ -5,7 +5,6 @@ A passionate and curious software engineer with a background in physics and a dr
 - 📱 Actively Building to understand. 🛠️ "What I cannot create, I do not understand." — Feynman
 - 📚 Passionate about algorithms, game engines, computer vision, and AI
 - ♟️ I draw inspiration from the strategic clarity of Capablanca and Karpov — methodical thinking and clean design.
--  infl
 
 Let’s build something amazing together!
 <!-- This is a comment -->
