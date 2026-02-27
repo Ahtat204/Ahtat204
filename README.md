@@ -1,6 +1,6 @@
 A passionate and curious software engineer with a background in physics and a drive to understand how things work at the core. I'm currently pursuing AI engineering while building apps, games, and backend systems. I believe in mastering fundamentals and always strive to balance theory with hands-on practice.
 
-- 🧠 Currently  exploring low-level graphics programming ,Go ,gRPC and kubernetes 
+- 🧠 Currently  exploring low-level graphics programming ,Go ,gRPC ,PINN and kubernetes 
 - 🧰 Working across platforms
 - 📱 Actively Building to understand. 🛠️ "What I cannot create, I do not understand." — Feynman
 - 📚 Passionate about algorithms, game engines, computer vision, and AI
